@@ -23,7 +23,7 @@
     <br />
     <br />
 
-    <table border="1" width="80%">
+    <table border ="1" width="80%">
         <thead>
             <tr>
                 <th>Id</th>
